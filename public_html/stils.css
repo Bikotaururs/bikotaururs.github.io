@@ -9,7 +9,7 @@ body {
 
 /* Style the header */
 header {
-  background-color:  #4BFF0F;
+    background-color:  #ffff66;
   padding: 30px;
   text-align: center;
   font-size: 35px;
@@ -26,13 +26,13 @@ article {
   -webkit-flex: 3;
   -ms-flex: 3;
   flex: 3;
-  background-color: #4BFF0F;
+  background-color:  #ffff66;
   padding: 10px;
 }
 
 /* Style the footer */
 footer {
-  background-color: #666;
+  background-color:  #ffff66;
   padding: 10px;
   text-align: center;
   color: white;
